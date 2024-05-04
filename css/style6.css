@@ -1,0 +1,16 @@
+button {
+    margin: 5px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: rgb(255, 217, 0);
+    font-weight: 600;
+}
+
+.contador {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.form-control {
+    width: 40%;
+}

@@ -1,0 +1,23 @@
+#agregar, #borrar {
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: rgb(255, 217, 0);
+    font-weight: 600;
+}
+
+#agregar:hover {
+    background-color: rgb(253, 227, 79);
+}
+
+#borrar:hover {
+    background-color: rgb(253, 227, 79);
+}
+
+.form-label {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#listaTareas {
+    font-weight: 600;
+}

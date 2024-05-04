@@ -1,0 +1,24 @@
+#clock {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 20px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.788);
+  color: white;
+  width: 30%;
+}
+
+#clock2 {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.788);
+    color: white;
+    width: 30%;
+}
+
+#ampm {
+  font-size: 20px;
+  vertical-align: top;
+  margin-right: -10px;
+}
